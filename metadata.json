@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ElectronReactFullStack",
+  "description": "A production-ready desktop application with separate React/Next.js frontend and Express/MySQL backend.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset specific to MUI + Tailwind coexistence if preflight is enabled, 
+   but we disabled preflight. We add some basics back. */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f3f4f6;
+}
